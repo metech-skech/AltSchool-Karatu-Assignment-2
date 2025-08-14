@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>AltSchool Africa Schools and Courses</h1>
+    
+    <table style="border-collapse: collapse;">
+        <tr>
+            <th style="border: 1px solid; ">Schools</th>
+            <th style="border: 1px solid;"  colspan="4">Courses</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid;">School of Engineering</td>
+            <td style="border: 1px solid; ">Frontend Engineering</td>
+            <td style="border: 1px solid; ">Backend Engineering</td>
+            <td style="border: 1px solid; ">Cloud Engineering</td>
+            <td style="border: 1px solid; ">Cyber Security</td>
+            
+        </tr>
+        <tr>
+            <td style="border: 1px solid;">School Of Product</td>
+            <td style="border: 1px solid;">Product Design</td>
+            <td style="border: 1px solid; ">Product Marketing</td>
+            <td style="border: 1px solid; ">Product Management</td>
+            <td style="border: 1px solid; "></td>
+            
+        </tr>
+         <tr>
+            <td style="border: 1px solid;">School Of Data</td>
+            <td style="border: 1px solid;">Data Analysis</td>
+            <td style="border: 1px solid; ">Data Science</td>
+            <td style="border: 1px solid; ">Data Engineering</td>
+            <td style="border: 1px solid; "></td>
+            
+        </tr>
+
+    </table>
+
+</body>
+</html>
